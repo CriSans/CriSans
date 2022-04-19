@@ -1,0 +1,5 @@
+- 👋 Buenaas, soy CriSans
+- 👀 Estoy muy pero que muy interesado en este mundo de programación
+- 🌱 Estoy aprendiendo Desarrollo Web (Quiero ser un Full Stack)
+- 💞️ No se mucho, asi que POR AHORA, no puedo colaborar con nadie
+- 📫 Puedes escribirme a mi gmail o lo que sea, si quieres hablar de algo.
